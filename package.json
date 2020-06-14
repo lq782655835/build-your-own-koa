@@ -1,0 +1,10 @@
+{
+  "name": "build-your-own-koa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "springleo",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.12.1"
+  }
+}
